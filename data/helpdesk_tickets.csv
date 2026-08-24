@@ -1,0 +1,251 @@
+text,category,action
+ip address conflict detected,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+ip address conflict detected,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+ip address conflict detected,network,Restart router and check cables
+internet is very slow,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+ip address conflict detected,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+internet is very slow,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+internet is very slow,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+cannot connect to wifi,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+internet is very slow,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+dns server not responding,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+cannot connect to wifi,network,Restart router and check cables
+cannot connect to wifi,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+network cable unplugged,network,Restart router and check cables
+ip address conflict detected,network,Restart router and check cables
+internet is very slow,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+vpn not connecting,network,Restart router and check cables
+router keeps restarting,network,Restart router and check cables
+ip address conflict detected,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+frequent network disconnection,network,Restart router and check cables
+computer not turning on,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+mouse is not detected,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+usb port not working,hardware,Check physical connections or repair hardware
+laptop is overheating,hardware,Check physical connections or repair hardware
+mouse is not detected,hardware,Check physical connections or repair hardware
+battery not charging,hardware,Check physical connections or repair hardware
+mouse is not detected,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+battery not charging,hardware,Check physical connections or repair hardware
+laptop is overheating,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+laptop is overheating,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+laptop is overheating,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+battery not charging,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+battery not charging,hardware,Check physical connections or repair hardware
+usb port not working,hardware,Check physical connections or repair hardware
+computer not turning on,hardware,Check physical connections or repair hardware
+mouse is not detected,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+laptop is overheating,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+usb port not working,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+keyboard not working,hardware,Check physical connections or repair hardware
+screen flickering,hardware,Check physical connections or repair hardware
+hard drive failure,hardware,Check physical connections or repair hardware
+battery not charging,hardware,Check physical connections or repair hardware
+software license expired,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+antivirus not updating,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+antivirus not updating,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+antivirus not updating,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+antivirus not updating,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+application not responding,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+blue screen error,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+system update failed,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+software license expired,software,Reinstall or update the software
+unable to install software,software,Reinstall or update the software
+unable to install software,software,Reinstall or update the software
+ms word keeps crashing,software,Reinstall or update the software
+file cannot be opened,software,Reinstall or update the software
+unable to access shared drive,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+need password reset,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+permission denied error,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+email not syncing,account,Reset password or verify account settings
+permission denied error,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+email not syncing,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+two factor authentication not working,account,Reset password or verify account settings
+email not syncing,account,Reset password or verify account settings
+need password reset,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+permission denied error,account,Reset password or verify account settings
+email not syncing,account,Reset password or verify account settings
+two factor authentication not working,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+need password reset,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+two factor authentication not working,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+need password reset,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+two factor authentication not working,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+forgot my email password,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+cannot login to system,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+account locked after login attempts,account,Reset password or verify account settings
+permission denied error,account,Reset password or verify account settings
+need password reset,account,Reset password or verify account settings
+unable to access shared drive,account,Reset password or verify account settings
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer not detected,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer not detected,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer offline,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer not detected,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer offline,printer,Restart printer and check paper/ink
+printer offline,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+paper jam error,printer,Restart printer and check paper/ink
+paper jam error,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+low ink warning,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+printer offline,printer,Restart printer and check paper/ink
+printer not detected,printer,Restart printer and check paper/ink
+paper jam error,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+cannot print document,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+printer printing blank pages,printer,Restart printer and check paper/ink
+printer driver missing,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+printer not responding,printer,Restart printer and check paper/ink
+printer offline,printer,Restart printer and check paper/ink

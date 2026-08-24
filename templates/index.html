@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Helpdesk Advisory System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&display=swap" rel="stylesheet">
+</head>
+<body class="light">
+    <div class="bg-gradient"></div>
+    <div class="page">
+        <header class="header">
+            <h1 class="title">IT Helpdesk Advisory</h1>
+            <p class="subtitle">Describe your issue and get suggested actions</p>
+            <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                <span class="icon-sun">☀</span>
+                <span class="icon-moon">🌙</span>
+            </button>
+        </header>
+
+        <main class="main">
+            <form class="card form-card" id="predictForm" method="POST" action="{{ url_for('predict_page') }}">
+                <label class="label" for="issue">Describe your issue</label>
+                <textarea id="issue" name="issue" class="input" rows="3" placeholder="e.g. Cannot connect to WiFi, Printer not responding..." maxlength="500">{{ issue or '' }}</textarea>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary" id="submitBtn">
+                        <span class="btn-text">Get suggestion</span>
+                        <span class="spinner" aria-hidden="true"></span>
+                    </button>
+                    <div class="samples">
+                        <span class="samples-label">Try:</span>
+                        <button type="button" class="btn-sample" data-text="Cannot connect to WiFi">WiFi</button>
+                        <button type="button" class="btn-sample" data-text="Printer not responding">Printer</button>
+                        <button type="button" class="btn-sample" data-text="Forgot my email password">Password</button>
+                        <button type="button" class="btn-sample" data-text="Keyboard not working">Keyboard</button>
+                    </div>
+                </div>
+            </form>
+
+            {% if error %}
+            <div class="card result-card result-error" role="alert">
+                <p class="result-message">{{ error }}</p>
+            </div>
+            {% endif %}
+
+            {% if prediction %}
+            <div class="card result-card result-success">
+                <h2 class="result-title">Suggested resolution</h2>
+                <div class="result-badges">
+                    <span class="badge badge-category">{{ prediction }}</span>
+                    <span class="badge badge-confidence" id="confidenceBadge">{{ "%.0f"|format((confidence or 0) * 100) }}% confidence</span>
+                </div>
+                <div class="confidence-bar-wrap">
+                    <div class="confidence-bar" style="width: {{ (confidence or 0) * 100 }}%;"></div>
+                </div>
+                <div class="result-action">
+                    <span class="action-icon">→</span>
+                    <p class="action-text">{{ action }}</p>
+                </div>
+            </div>
+            {% endif %}
+        </main>
+
+        <footer class="footer">
+            <p>IT Helpdesk Advisory System · ML-powered suggestions</p>
+            <p class="footer-credit">Final Project · Developer: <strong>Hannah Trust</strong></p>
+        </footer>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
